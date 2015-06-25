@@ -19,3 +19,9 @@ configuration. Please see the fine [Arch Linux wiki](https://wiki.archlinux.org/
 Further information on the .Xresources file and its place in the X Window
 System can of course be found on [Wikipedia](http://en.wikipedia.org/wiki/X_resources).
 
+Local changes in this repo
+--------------------------
+
+- Color 0 (was: black) can be used for emphasized text (in dark _and_ light).
+- Color 7 (was: white) can be used for comments (in dark _and_ light).
+- Bold colors are the same as non-bold colors.
